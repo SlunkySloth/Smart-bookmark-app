@@ -139,6 +139,4 @@ When deploying, you also need to update these in Supabase → Authentication →
 1. **Site URL**: set it to your Vercel URL
 2. **Redirect URLs**: add `https://your-vercel-url.vercel.app/auth/callback`
 
-## License
 
-MIT
